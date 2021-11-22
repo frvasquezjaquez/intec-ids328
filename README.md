@@ -8,6 +8,7 @@ Repositorio de Practicas de Intec
 
 ## Estudiantes
 
+<<<<<<< HEAD
 
 2.
 3. 1086369 - Nelson De Jesus Santos Hidalgo
@@ -18,3 +19,6 @@ Repositorio de Practicas de Intec
 8. 
 9. 
 10. 
+=======
+1. Oscar Veloz Arencibia
+>>>>>>> c02e9a5530ed7e57e0f846d2de2e5f462eb346a5
