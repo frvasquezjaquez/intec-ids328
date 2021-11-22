@@ -8,4 +8,4 @@ Repositorio de Practicas de Intec
 
 ## Estudiantes
 
-1. ...
+1. Oscar Veloz Arencibia
