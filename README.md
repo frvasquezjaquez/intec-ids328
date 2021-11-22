@@ -8,4 +8,4 @@ Repositorio de Practicas de Intec
 
 ## Estudiantes
 
-1. ...
+1. 1086369 - Nelson De Jesus Santos Hidalgo
