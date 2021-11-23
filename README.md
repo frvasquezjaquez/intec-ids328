@@ -8,4 +8,5 @@ Repositorio de Practicas de Intec
 
 ## Estudiantes
 
-1. ...
+1. ...`
+2. Leandro Toledano
