@@ -19,7 +19,7 @@ Repositorio de Practicas de Intec
 8. 1074864 - John Espinal
 9. 1088708 - Diego Beras
 10. 1088459 - Leandro Toledano
-11.
+11. 1078057 - Jean Carlos Mendoza
 12.
 13.
 14. 1077887 - Vladimir Matos
