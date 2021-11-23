@@ -13,7 +13,7 @@ Repositorio de Practicas de Intec
 2. Leandro Toledano
 3. 1086369 - Nelson De Jesus Santos Hidalgo
 4. 1088746 - Daihiana Vasquez Goris
-5. 
+5. 1086617 - Ambar A. Cuevas Beltré
 6.
 7. 
 8. 
