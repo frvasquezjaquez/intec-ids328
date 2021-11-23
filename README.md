@@ -24,7 +24,7 @@ Repositorio de Practicas de Intec
 13. 1077887 - Vladimir Matos
 14. 1089318 - Randy Grullon
 15. 1065816 - Jack Damiolix Pacheco Luciano
-16.
+16. 1086070 - Raul Sanchez
 17.
 18.
 19.
