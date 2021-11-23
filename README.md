@@ -23,7 +23,7 @@ Repositorio de Practicas de Intec
 12. 1088597 - Emil Payano
 13. 1077887 - Vladimir Matos
 14. 1089318 - Randy Grullon
-15.
+15. 1065816 - Jack Damiolix Pacheco Luciano
 16.
 17.
 18.
