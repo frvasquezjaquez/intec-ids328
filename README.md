@@ -16,7 +16,7 @@ Repositorio de Practicas de Intec
 5. 1086617 - Ambar A. Cuevas Beltré
 6. 1088610 - Rafael Miguel Fernandez Castillo
 7. 
-8. 
+8. 1074864 - John Espinal
 9. 1088708 - Diego Beras
 10. 1088459 - Leandro Toledano
 11.
