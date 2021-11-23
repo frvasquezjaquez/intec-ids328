@@ -19,3 +19,8 @@ Repositorio de Practicas de Intec
 8. 
 9. 1088708 - Diego Beras
 10. 1088459 - Leandro Toledano
+11.
+12.
+13.
+14.
+15.
