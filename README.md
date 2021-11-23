@@ -25,7 +25,7 @@ Repositorio de Practicas de Intec
 14. 1089318 - Randy Grullon
 15. 1065816 - Jack Damiolix Pacheco Luciano
 16. 1086070 - Raul Sanchez
-17.
+17. 1088637 - Samuel Nuno De Freitas Galarraga
 18.
 19.
 20.
