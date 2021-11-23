@@ -12,7 +12,7 @@ Repositorio de Practicas de Intec
 1. Oscar Veloz Arencibia
 2. Leandro Toledano
 3. 1086369 - Nelson De Jesus Santos Hidalgo
-4. 
+4. 1088746 - Daihiana Vasquez Goris
 5. 
 6.
 7. 
