@@ -21,7 +21,7 @@ Repositorio de Practicas de Intec
 6.
 7. 
 8. 
-9. 
+9. 1088708 - Diego Beras
 10. 1088459 - Leandro Toledano
 =======
 1. Oscar Veloz Arencibia
