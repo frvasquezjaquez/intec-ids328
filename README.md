@@ -26,6 +26,6 @@ Repositorio de Practicas de Intec
 15. 1065816 - Jack Damiolix Pacheco Luciano
 16. 1086070 - Raul Sanchez
 17. 1088637 - Samuel Nuno De Freitas Galarraga
-18.
+18. 1088315 - David Tejada
 19.
 20.
