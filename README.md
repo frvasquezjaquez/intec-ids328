@@ -27,5 +27,5 @@ Repositorio de Practicas de Intec
 16. 1086070 - Raul Sanchez
 17. 1088637 - Samuel Nuno De Freitas Galarraga
 18. 1088315 - David Tejada
-19.
+19. 1090096 - Carlos Luciano
 20.
