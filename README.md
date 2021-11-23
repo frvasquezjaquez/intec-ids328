@@ -20,7 +20,7 @@ Repositorio de Practicas de Intec
 9. 1088708 - Diego Beras
 10. 1088459 - Leandro Toledano
 11. 1078057 - Jean Carlos Mendoza
-12.
+12. 1088597 - Emil Payano
 13.
 14. 1077887 - Vladimir Matos
 15. 1089318 - Randy Grullon
