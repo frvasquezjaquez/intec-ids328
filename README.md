@@ -8,8 +8,9 @@ Repositorio de Practicas de Intec
 
 ## Estudiantes
 
+
 1. Oscar Veloz Arencibia
-2.
+2. Leandro Toledano
 3. 1086369 - Nelson De Jesus Santos Hidalgo
 4. 
 5. 
@@ -17,4 +18,4 @@ Repositorio de Practicas de Intec
 7. 
 8. 
 9. 
-10. 
+10. 1088459 - Leandro Toledano
