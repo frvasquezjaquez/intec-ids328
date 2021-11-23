@@ -15,7 +15,7 @@ Repositorio de Practicas de Intec
 4. 1088746 - Daihiana Vasquez Goris
 5. 1086617 - Ambar A. Cuevas Beltré
 6. 1088610 - Rafael Miguel Fernandez Castillo
-7. 
+7. 1086515 - Victor Valdez
 8. 1074864 - John Espinal
 9. 1088708 - Diego Beras
 10. 1088459 - Leandro Toledano
