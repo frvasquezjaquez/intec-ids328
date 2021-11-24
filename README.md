@@ -30,3 +30,4 @@ Repositorio de Practicas de Intec
 19. 1090096 - Carlos Luciano
 20. 1067087 - Ernesto Melendez
 21. 1045878 - Jordi Mejia
+22. 1086907 - Jose Mendoza
