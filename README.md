@@ -31,3 +31,4 @@ Repositorio de Practicas de Intec
 20. 1067087 - Ernesto Melendez
 21. 1045878 - Jordi Mejia
 22. 1086907 - Jose Mendoza
+23. 1087765 - Sebastian Soto
