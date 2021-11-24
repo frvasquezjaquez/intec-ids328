@@ -34,3 +34,10 @@ Repositorio de Practicas de Intec
 24. 1087228 - Diego Javier Jimenez
 25. 1085854 - Kevin Rosario Cruz
 26. 1086745 - Diego Grau
+
+
+# Materias
+
+1. Matematicas
+2. Adm. de la configuración
+3. DevOps
