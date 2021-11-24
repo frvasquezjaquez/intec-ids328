@@ -32,3 +32,4 @@ Repositorio de Practicas de Intec
 21. 1045878 - Jordi Mejia
 22. 1086907 - Jose Mendoza
 23. 1087765 - Sebastian Soto
+24. 1087228 - Diego Javier Jimenez
