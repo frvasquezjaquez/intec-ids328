@@ -1,13 +1,12 @@
 # intec-ids328
-Repositorio de Practicas de Intec
 
+Repositorio de Practicas de Intec
 
 # Lista
 
 **Profesor:** Francisco Javier Vasquez Jaquez
 
 ## Estudiantes
-
 
 1. Oscar Veloz Arencibia
 2. Leandro Toledano
@@ -33,3 +32,4 @@ Repositorio de Practicas de Intec
 22. 1086907 - Jose Mendoza
 23. 1087765 - Sebastian Soto
 24. 1087228 - Diego Javier Jimenez
+25. 1085854 - Kevin Rosario Cruz
