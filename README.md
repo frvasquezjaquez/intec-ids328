@@ -29,4 +29,4 @@ Repositorio de Practicas de Intec
 18. 1088315 - David Tejada
 19. 1090096 - Carlos Luciano
 20. 1067087 - Ernesto Melendez
-21.
+21. 1045878 - Jordi Mejia
